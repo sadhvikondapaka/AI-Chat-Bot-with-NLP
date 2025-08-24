@@ -16,4 +16,4 @@
 
 
 OUTPUT OF THE TASK:
-
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/8d45f97c-8e06-4c48-afa3-b37a24f5d0eb" />
